@@ -8,7 +8,6 @@ _site
 .tweet-cache
 .assets-cache
 Gemfile.lock
-assets/
 node_modules/
 vendor
 .idea
