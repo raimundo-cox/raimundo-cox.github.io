@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Raimundo Cox # the website title (if blank, full name will be used instead)
+title: Raimundo R. Cox # the website title (if blank, full name will be used instead)
 first_name: Raimundo
 middle_name: Rolando
 last_name: Cox
@@ -214,6 +214,7 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-seo-tag
 
 # Sitemap settings
 defaults:
