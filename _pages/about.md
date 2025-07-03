@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Raimundo Cox, a Philosophy Graduate Student at the University of Pittsburgh. Before
+I am Raimundo Rolando Cox, a Philosophy Graduate Student at the University of Pittsburgh. Before
 joining Pitt, I obtained my BA and MA in Philosophy at Universidad de los Andes in Chile, my
 home country.
 
