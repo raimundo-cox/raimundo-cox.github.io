@@ -1,6 +1,112 @@
 {
   "basics": {
     "name": "Raimundo Rolando Cox",
-    "label": "PhD Student in Philosophy"
-  }
+    "email": "rrc55@pitt.edu",
+    "summary": "PhD Student in Philosophy at the University of Pittsburgh"
+  },
+  "interests": [
+    {
+      "name": "Primary Area: Modern & Early Modern Philosophy",
+      "icon": "fa-solid fa-book",
+      "keywords": ["Kant", "German Idealism", "Rationalism"]
+    },
+    {
+      "name": "Secondary Area: Medieval Philosophy & Scholasticism",
+      "icon": "fa-solid fa-book",
+      "keywords": ["Aquinas", "Scotus", "Cajetan", "Suárez"]
+    },
+    {
+      "name": "Secondary Area: Practical Philosophy",
+      "icon": "fa-solid fa-book",
+      "keywords": ["Philosophy of Action", "Ethics", "Metaethics", "Political Philosophy"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Pittsburgh",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.philosophy.pitt.edu",
+      "area": "Philosophy",
+      "studyType": "PhD",
+      "startDate": "2023"
+    },
+    {
+      "institution": "Universidad de los Andes, Chile",
+      "location": "Santiago, Chile",
+      "url": "https://www.uandes.cl",
+      "area": "Philosophy and Classical Languages — Dissertation: \"A shoreless sea. Introduction, Translation and Commentary of Immanuel Kant's Dissertatio (1770)\"",
+      "studyType": "MA",
+      "startDate": "2022",
+      "endDate": "2024"
+    },
+    {
+      "institution": "Unidversidad de los Andes, Chile",
+      "location": "Santiago, Chile",
+      "url": "https://www.uandes.cl",
+      "area": "Philosophy — Dissertation: \"Ens sive causa. The Causal Understanding of Being in Francisco Suárez’s Disputationes Metaphysicae (1597).\"",
+      "studyType": "BA",
+      "startDate": "2018",
+      "endDate": "2021"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Alfonso Gómez-Lobo: Selected Papers on Greek Thought (Review)",
+      "publisher": "Síntesis, Revista de Filosofía III, no. 1 (January–July 2020)",
+      "releaseDate": "2020",
+      "summary": "Book Review (Spanish)",
+      "url": "https://philpapers.org/rec/COXSPO"
+    }
+  ],
+  "presentations": [
+    {
+      "title": "Re-evaluating Suárez's Impact in Modern Philosophy",
+      "date": "2025-04-12",
+      "venue": "Rackham Workshop in Early Modern Philosophy, University of Michigan",
+      "url": "https://philevents.org/event/show/129326"
+    },
+    {
+      "title": "Re-evaluating Suárez's Impact in Modern Philosophy",
+      "date": "2025-07-11",
+      "venue": "Intellectual Traditions in Dialogue & Conflict, International Society for MacIntyrean Enquiry & University of Pennsylvania",
+      "url": "https://collegiuminstitute.org/calendar/isme-2025"
+    }
+  ],
+  "teaching": [
+    {
+      "university": "University of Pittsburgh",
+      "location": "Pittsburgh, PA",
+      "position": "Teaching Assistant, Department of Philosophy",
+      "courses": ["\"History of Modern Philosophy\"", "\"Introduction to Philosophical Problems\""],
+      "startDate": "2024"
+    },
+    {
+      "university": "Universidad de los Andes",
+      "location": "Santiago, Chile",
+      "position": "Main Instructor, Core Curriculum",
+      "courses": [
+        "\"Philosophy of Science\" (Popper, Kuhn, Lakatos)",
+        "\"Philosophical Anthropology\" (Aristotle's De Anima & Physics, selections)",
+        "\"Philosophical Anthropology II\" (Aquinas's Summa, selections)",
+        "\"Medical Anthropology\" (Misc. topics: Life, Personhood, Body, Death)"
+      ],
+      "startDate": "2022",
+      "endDate": "2023"
+    },
+    {
+      "university": "Universidad de los Andes",
+      "location": "Santiago, Chile",
+      "position": "Teaching Assistant, Institute of Philosophy",
+      "courses": [
+        "\"Modern Philosophy II\" (Kant)",
+        "\"Ancient Philosophy II\" (Aristotle & Stoics)",
+        "\"Ancient Philosophy I\" (Presocratics & Plato)",
+        "\"Political Philosophy II\" (From Machiavelli to Foucault)",
+        "\"Political Philosophy I\" (From Plato and Marisilius)",
+        "\"Philosophy of Nature\" (Aristotle & Aquinas)"
+      ],
+      "startDate": "2018",
+      "endDate": "2021"
+    }
+  ]
 }
