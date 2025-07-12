@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student in Philosophy at the <a href='https://www.philosophy.pitt.edu/'>University of Pittsburgh.</a>
+subtitle: PhD Student in Philosophy at the <a href='https://www.philosophy.pitt.edu/'>University of Pittsburgh</a>.
 
 profile:
   align: right
