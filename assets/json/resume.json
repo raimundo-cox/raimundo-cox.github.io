@@ -43,7 +43,7 @@
       "institution": "Unidversidad de los Andes, Chile",
       "location": "Santiago, Chile",
       "url": "https://www.uandes.cl",
-      "area": "Philosophy — Dissertation: \"Ens sive causa. The Causal Understanding of Being in Francisco Suárez’s Disputationes Metaphysicae (1597).\"",
+      "area": "Philosophy — Dissertation: \"Ens sive causa. The Causal Understanding of Being in Francisco Suárez’s Disputationes Metaphysicae (1597)\"",
       "studyType": "BA",
       "startDate": "2018",
       "endDate": "2021"
@@ -60,24 +60,44 @@
   ],
   "presentations": [
     {
-      "title": "Re-evaluating Suárez's Impact in Modern Philosophy",
-      "date": "2025-04-12",
-      "venue": "Rackham Workshop in Early Modern Philosophy, University of Michigan",
-      "url": "https://philevents.org/event/show/129326"
+      "title": "Suárez and the Unity of Causality (Upcoming)",
+      "date": "2026-04-10",
+      "venue": "The Philosophy of Francisco Suárez, University of Gröningen",
+      "url": "https://philevents.org/event/show/140846"
+    },
+    {
+      "title": "Comments on Godehard Brüntrup's (Munich) 'Adams: Determinist, Theist, Idealist'",
+      "date": "2025-10-3",
+      "venue": "2025 Eastern Conference of the Society of Christian Philosophers: The Philosophical Legacy of Robert Merrihew Adams, Princeton University",
+      "url": "https://ptsem.edu/event/the-philosophical-legacy-of-robert-merrihew-adams/"
+  
     },
     {
       "title": "Re-evaluating Suárez's Impact in Modern Philosophy",
       "date": "2025-07-11",
-      "venue": "Intellectual Traditions in Dialogue & Conflict, International Society for MacIntyrean Enquiry & University of Pennsylvania",
+      "venue": "International Society for MacIntyrean Enquiry 2025: Intellectual Traditions in Dialogue & Conflict,  University of Pennsylvania",
       "url": "https://collegiuminstitute.org/calendar/isme-2025"
+    },
+    { 
+      "title": "Re-evaluating Suárez's Impact in Modern Philosophy",
+      "date": "2025-04-12",
+      "venue": "Rackham Workshop in Early Modern Philosophy, University of Michigan",
+      "url": "https://philevents.org/event/show/129326"
     }
   ],
   "teaching": [
     {
       "university": "University of Pittsburgh",
       "location": "Pittsburgh, PA",
+      "position": "(Solo) Course Instructor, Department of Philosophy",
+      "courses": ["PHIL 0470 \"Philosophy of Religion\" – Religion shapes human experience in profound ways, influencing our social, political, and moral lives—whether we're believers or not. This course explores fundamental questions in philosophy of religion, focusing primarily on the complex relationship between religion and morality, alongside key issues like free will, the nature of faith, and God's existence.\nWe'll think through these issues systematically, drawing mainly from the Christian tradition while addressing questions that transcend any single tradition. Through readings from Augustine, Aquinas, Hume, Kant, Kierkegaard, and Nietzsche, we'll trace how great thinkers have grappled with these enduring questions. To enrich our understanding and reveal both universal concerns and distinctive insights, we'll also engage philosophers from Jewish, Islamic, and Chinese traditions—including Maimonides, Mendelssohn, Al-Farabi, Al-Ghazali, Zhuangzi, and Mencius. This comparative dimension allows us to see how different cultures have approached the same fundamental questions, deepening our appreciation for both the diversity and commonality of human religious thought."],
+      "startDate": "2026"
+    },
+    {
+      "university": "University of Pittsburgh",
+      "location": "Pittsburgh, PA",
       "position": "Teaching Assistant, Department of Philosophy",
-      "courses": ["\"History of Modern Philosophy\"", "\"Introduction to Philosophical Problems\""],
+      "courses": ["PHIL 0200 \"History of Ancient Philosophy\" (Writing Practicum)", "PHIL 0210 \"History of Modern Philosophy\"", "PHIL 0080 \"Introduction to Philosophical Problems\""],
       "startDate": "2024"
     },
     {
