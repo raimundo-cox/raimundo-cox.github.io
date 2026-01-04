@@ -2,7 +2,7 @@
 layout: page
 title: Late Scholasticism &amp; Early Modern Philosophy
 description: The origins of modern philosophy
-img: assets/img/sample.jpg
+img: assets/img/baroque.jpg
 importance: 2
 category: History
 ---
