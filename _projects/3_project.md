@@ -2,7 +2,7 @@
 layout: page
 title: Kant's Practical Metaphysics
 description: Moral philosophy in Kant's system
-img: assets/img/sample.jpg
+img: assets/img/kritik.jpg
 importance: 3
 category: Kant
 ---

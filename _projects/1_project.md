@@ -2,7 +2,7 @@
 layout: page
 title: Kant's Reform of Metaphysics
 description: Kant&#39;s philosophical project as a unified whole
-img: assets/img/sample.jpg
+img: assets/img/metaphysics.jpg
 importance: 1
 category: Kant
 related_publications: false

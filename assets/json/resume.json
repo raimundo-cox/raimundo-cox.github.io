@@ -43,7 +43,7 @@
       "institution": "Unidversidad de los Andes, Chile",
       "location": "Santiago, Chile",
       "url": "https://www.uandes.cl",
-      "area": "Philosophy — Dissertation: \"Ens sive causa. The Causal Understanding of Being in Francisco Suárez’s Disputationes Metaphysicae (1597).\"",
+      "area": "Philosophy — Dissertation: \"Ens sive causa. The Causal Understanding of Being in Francisco Suárez’s Disputationes Metaphysicae (1597)\"",
       "studyType": "BA",
       "startDate": "2018",
       "endDate": "2021"
@@ -60,24 +60,47 @@
   ],
   "presentations": [
     {
-      "title": "Re-evaluating Suárez's Impact in Modern Philosophy",
-      "date": "2025-04-12",
-      "venue": "Rackham Workshop in Early Modern Philosophy, University of Michigan",
-      "url": "https://philevents.org/event/show/129326"
+      "title": "Suárez and the Unity of Causality (Upcoming)",
+      "date": "2026-04-10",
+      "venue": "The Philosophy of Francisco Suárez, University of Gröningen",
+      "url": "https://philevents.org/event/show/140846"
+    },
+    {
+      "title": "Comments on Godehard Brüntrup's (Munich) 'Adams: Determinist, Theist, Idealist'",
+      "date": "2025-10-3",
+      "venue": "2025 Eastern Conference of the Society of Christian Philosophers: The Philosophical Legacy of Robert Merrihew Adams, Princeton University",
+      "url": "https://ptsem.edu/event/the-philosophical-legacy-of-robert-merrihew-adams/"
     },
     {
       "title": "Re-evaluating Suárez's Impact in Modern Philosophy",
       "date": "2025-07-11",
-      "venue": "Intellectual Traditions in Dialogue & Conflict, International Society for MacIntyrean Enquiry & University of Pennsylvania",
+      "venue": "International Society for MacIntyrean Enquiry 2025: Intellectual Traditions in Dialogue & Conflict,  University of Pennsylvania",
       "url": "https://collegiuminstitute.org/calendar/isme-2025"
+    },
+    {
+      "title": "Re-evaluating Suárez's Impact in Modern Philosophy",
+      "date": "2025-04-12",
+      "venue": "Rackham Workshop in Early Modern Philosophy, University of Michigan",
+      "url": "https://philevents.org/event/show/129326"
     }
   ],
   "teaching": [
     {
       "university": "University of Pittsburgh",
       "location": "Pittsburgh, PA",
+      "position": "(Solo) Course Instructor, Department of Philosophy",
+      "courses": ["PHIL 0470 \"Philosophy of Religion\" (See Teaching page for course description)"],
+      "startDate": "2026"
+    },
+    {
+      "university": "University of Pittsburgh",
+      "location": "Pittsburgh, PA",
       "position": "Teaching Assistant, Department of Philosophy",
-      "courses": ["\"History of Modern Philosophy\"", "\"Introduction to Philosophical Problems\""],
+      "courses": [
+        "PHIL 0200 \"History of Ancient Philosophy\" (Writing Practicum)",
+        "PHIL 0210 \"History of Modern Philosophy\"",
+        "PHIL 0080 \"Introduction to Philosophical Problems\""
+      ],
       "startDate": "2024"
     },
     {
