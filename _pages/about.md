@@ -27,6 +27,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 Last updated: Jan 8, 2026
 
 I work in the history of philosophy, with an emphasis on the modern period and especially Immanuel Kant.
