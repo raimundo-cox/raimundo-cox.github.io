@@ -28,6 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Last updated: Jan 8, 2026
+
 I work in the history of philosophy, with an emphasis on the modern period and especially Immanuel Kant.
 
 I study the philosophical origins of modern thought. In particular, I focus on how modern philosophy emerged from and transformed medieval scholastic traditions. I work on Kant’s philosophical methodology and how this drives his innovations in both theoretical and practical philosophy. My master’s thesis was on Kant’s novel conception of metaphysics in his 1770 Dissertatio. I am also interested in criticisms of Kant raised by his contemporaries and immediate successors, particularly Hegel.
