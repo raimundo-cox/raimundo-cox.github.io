@@ -131,5 +131,14 @@
       "startDate": "2018",
       "endDate": "2021"
     }
+  ],
+  "awards": [
+    {
+      "startDate": "2025",
+      "endDate": "2026",
+      "title": "Adam Smith Fellowship",
+      "url": "https://www.mercatus.org/students/adam-smith-fellowship",
+      "summary": "Competitive interdisciplinary politics, philosophy, and economics seminar-based fellowhip"
+    }
   ]
 }
