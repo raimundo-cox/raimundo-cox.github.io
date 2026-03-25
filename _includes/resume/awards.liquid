@@ -6,8 +6,8 @@
           {% if content.startDate and content.startDate != '' %}
             {% assign start = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
             {% assign end = content.endDate | split: '-' | slice: 0, 2 | join: '.' %}
-            
-            {% if end == '' or end == nil %}
+
+            {% if end == '' or end == null %}
               {% assign date = start | append: ' - Present' %}
             {% else %}
               {% assign date = start | append: ' - ' | append: end %}

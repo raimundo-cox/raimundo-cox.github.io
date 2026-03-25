@@ -4,22 +4,22 @@
     <li class="list-group-item">
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
-            {% if content.startDate and content.startDate != '' %}
-              {% assign start = content.startDate | split: '-' | join: '.' %}
+          {% if content.startDate and content.startDate != '' %}
+            {% assign start = content.startDate | split: '-' | join: '.' %}
 
-              {% if content.endDate and content.endDate != '' %}
-                {% assign end = content.endDate | split: '-' | join: '.' %}
-                {% assign date = start | append: ' - ' | append: end %}
-              {% else %}
-                {% assign date = start | append: ' - Present' %}
-              {% endif %}
-
-            {% elsif content.date and content.date != '' %}
-              {% assign date = content.date | split: '-' | join: '.' %}
-
+            {% if content.endDate and content.endDate != '' %}
+              {% assign end = content.endDate | split: '-' | join: '.' %}
+              {% assign date = start | append: ' - ' | append: end %}
             {% else %}
-              {% assign date = '' %}
+              {% assign date = start | append: ' - Present' %}
             {% endif %}
+
+          {% elsif content.date and content.date != '' %}
+            {% assign date = content.date | split: '-' | join: '.' %}
+
+          {% else %}
+            {% assign date = '' %}
+          {% endif %}
           <table class="table-cv">
             <tbody>
               <tr>
