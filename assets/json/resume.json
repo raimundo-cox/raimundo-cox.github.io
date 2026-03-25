@@ -40,7 +40,7 @@
       "endDate": "2024"
     },
     {
-      "institution": "Unidversidad de los Andes, Chile",
+      "institution": "Universidad de los Andes, Chile",
       "location": "Santiago, Chile",
       "url": "https://www.uandes.cl",
       "area": "Philosophy — Dissertation: \"Ens sive causa. The Causal Understanding of Being in Francisco Suárez’s Disputationes Metaphysicae (1597)\"",
@@ -130,6 +130,40 @@
       ],
       "startDate": "2018",
       "endDate": "2021"
+    }
+  ],
+  "seminars": [
+    {
+      "title": "(Upcoming) The Thought of John Henry Newman",
+      "url": "https://lumenchristi.org/event/the-thought-of-john-henry-newman/",
+      "startDate": "2026-07-19",
+      "endDate": "25",
+      "location": "Pittsburgh, PA",
+      "summary": "Selective seminar sponsored by the Lumen Christi Institute and the National Institute of Newman Studies"
+    },
+    {
+      "title": "(Upcoming) Glimpses of Wonder: Epiphanies of Beauty in the Midst of Technological Change",
+      "url": "https://lumenchristi.org/event/2026-glimpses-of-wonder-epiphanies-of-beauty-in-the-midst-of-technological-change/",
+      "startDate": "2026-06-14",
+      "endDate": "20",
+      "location": "Durham, NC",
+      "summary": "Selective seminar sponsored by the Lumen Christi Institute and the Society of Catholic Scientists"
+    },
+    {
+      "title": "What is a Form and How Do We Understand It?",
+      "url": "https://thomisticinstitute.org/events/what-is-a-form-and-how-do-we-understand-it",
+      "startDate": "2026-02-20",
+      "endDate": "21",
+      "location": "Washington, DC",
+      "summary": "Spring 2026 Thomistic Circles Conference examining the subject of form, especially from the perspectives of St. Thomas Aquinas and Johann Wolfgang von Goethe"
+    },
+    {
+      "startDate": "2025",
+      "endDate": "2026",
+      "title": "Adam Smith Fellowship",
+      "location": "Fairfax, Virginia",
+      "url": "https://www.mercatus.org/students/adam-smith-fellowship",
+      "summary": "Competitive interdisciplinary politics, philosophy, and economics seminar-based fellowhip"
     }
   ]
 }
