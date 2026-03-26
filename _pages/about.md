@@ -28,7 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Last updated: Jan 8, 2026
+<!--
+Last updated: Jan 8, 2026 -->
 
 I work in the history of philosophy, with an emphasis on the modern period and especially Immanuel Kant.
 
