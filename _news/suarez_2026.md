@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented at [The Philosophy of Francisco Suarez at the University of Gröningen](https://www.rug.nl/filosofie/organization/news-and-events/events/2026/suarezconf?lang=en) in the Netherlands.
+I presented at ["The Philosophy of Francisco Suarez"](https://www.rug.nl/filosofie/organization/news-and-events/events/2026/suarezconf?lang=en) at the University of Gröningen in the Netherlands.
