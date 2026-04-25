@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-(Upcoming) I will be presenting at [The Philosophy of Francisco Suarez at the University of Groningen](https://www.rug.nl/filosofie/organization/news-and-events/events/2026/suarezconf?lang=en) in April 2026.
+I presented at [The Philosophy of Francisco Suarez at the University of Gröningen](https://www.rug.nl/filosofie/organization/news-and-events/events/2026/suarezconf?lang=en) in the Netherlands.
