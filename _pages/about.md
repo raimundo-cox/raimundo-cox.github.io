@@ -31,10 +31,14 @@ latest_posts:
 <!--
 Last updated: Jan 8, 2026 -->
 
-I work in the history of philosophy, with an emphasis on the modern period and especially Immanuel Kant.
+I work in the history of philosophy, with an emphasis on the modern period, especially Immanuel Kant. My research focuses on moral philosophy and metaphysics, with particular attention to their intersection.
 
-I study the philosophical origins of modern thought. In particular, I focus on how modern philosophy emerged from and transformed medieval scholastic traditions. I work on Kant’s philosophical methodology and how this drives his innovations in both theoretical and practical philosophy. My master’s thesis was on Kant’s novel conception of metaphysics in his 1770 Dissertatio. I am also interested in criticisms of Kant raised by his contemporaries and immediate successors, particularly Hegel.
+I am currently starting a dissertation on Kant’s practical philosophy. The project examines the methodology of Kant’s moral philosophy and addresses the problems that arise in the application of moral principles to particular situations and actions. To do so, I draw not only on Kant’s moral writings but also on insights from his theoretical philosophy and the Critique of the Power of Judgment.
+
+My master’s thesis explored Kant’s novel conception of metaphysics in the 1770 Dissertatio. I am also interested in criticisms of Kant raised by his contemporaries and immediate successors, particularly Georg Wilhelm Friedrich Hegel. More recently, I have been working on Hegel’s Philosophy of Right, focusing on his critique of Kant and its methodological background.
 
 In addition, I work extensively on Francisco Suárez, whom I interpret as a pivotal figure between medieval and modern philosophy. My work on Suárez aims to clarify the scholastic background of early modern metaphysics, especially within the rationalist tradition.
 
-More broadly, I am interested in how modern philosophy reshaped central domains such as religion, politics, and history. I am always up for a chat on current events and their historical origins. I hold a BA and an MA in philosophy from the Universidad de Los Andes in my hometown of Santiago, Chile.
+More broadly, I am interested in how modern philosophy reshaped central domains such as religion, politics, and history. I am always happy to discuss current events and their historical origins.
+
+I hold a BA and an MA in philosophy from the Universidad de los Andes in Santiago, Chile.
