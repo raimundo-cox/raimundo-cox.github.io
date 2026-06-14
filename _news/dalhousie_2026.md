@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-(Upcoming) I was accepted into the Twenty-Third Annual Atlantic Canada Seminar in Early Modern Philosophy. I will be presenting my (draft) paper, "Kant's Theory of Moral Intelligibility," in July 2026.
+(Upcoming) I was accepted into the [Twenty-Third Annual Atlantic Canada Seminar in Early Modern Philosophy](https://philevents.org/event/show/150217). I will be presenting my (draft) paper, "Kant's Theory of Moral Intelligibility," in July 2026.
