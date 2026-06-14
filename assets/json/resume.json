@@ -60,6 +60,12 @@
   ],
   "presentations": [
     {
+      "title": "Contractualism and Natural Law in Kant's Political Philosophy",
+      "date": "2026-06-06",
+      "venue": "Northwestern Society for the Theory of Ethics and Politics (NUSTEP), Northwestern University",
+      "url": "https://philosophy.northwestern.edu/community/nustep/"
+    },
+    {
       "title": "Suárez and the Unity of Causality",
       "date": "2026-04-10",
       "venue": "The Philosophy of Francisco Suárez, University of Gröningen",
@@ -134,12 +140,20 @@
   ],
   "seminars": [
     {
-      "title": "(Upcoming) Glimpses of Wonder: Epiphanies of Beauty in the Midst of Technological Change",
+      "title": "Glimpses of Wonder: Epiphanies of Beauty in the Midst of Technological Change",
       "url": "https://lumenchristi.org/event/2026-glimpses-of-wonder-epiphanies-of-beauty-in-the-midst-of-technological-change/",
       "startDate": "2026-06-14",
       "endDate": "20",
       "location": "Durham, NC",
-      "summary": "Selective seminar sponsored by the Lumen Christi Institute and the Society of Catholic Scientists"
+      "summary": "Selective seminar sponsored by the Lumen Christi Institute (UChicago) and the Society of Catholic Scientists"
+    },
+    {
+      "title": "Aquinas Philosophy Workshop: Aquinas on Act & Potency",
+      "url": "https://thomisticinstitute.org/events/aquinas-on-act-and-potency",
+      "startDate": "2026-05-27",
+      "endDate": "30",
+      "location": "Washington, DC",
+      "summary": "Selected for Graduate Colloquium at the 15th annual Aquinas Philosophy Workshop at the Thomistic Institute"
     },
     {
       "title": "What is a Form and How Do We Understand It?",
@@ -147,7 +161,7 @@
       "startDate": "2026-02-20",
       "endDate": "21",
       "location": "Washington, DC",
-      "summary": "Spring 2026 Thomistic Circles Conference examining the subject of form, especially from the perspectives of St. Thomas Aquinas and Johann Wolfgang von Goethe"
+      "summary": "Spring 2026 Thomistic Circles Conference examining the subject of form, especially from the perspectives of Aquinas and Johann Wolfgang von Goethe"
     },
     {
       "startDate": "2025",
