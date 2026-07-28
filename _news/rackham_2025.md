@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented a paper on Francisco Suarez at the University of Michigan Rackham Early Modern Philosophy Workshop.
+I presented a paper on Francisco Suarez at the [University of Michigan Rackham Early Modern Philosophy Workshop](https://philevents.org/event/show/129326).
