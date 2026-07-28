@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented my (draft) paper, "Kant's Theory of Moral Intelligibility," at the [Twenty-Third Annual Atlantic Canada Seminar in Early Modern Philosophy](https://philevents.org/event/show/150217). 
+I presented my (draft) paper, "Kant's Theory of Moral Intelligibility," at the [Twenty-Third Annual Atlantic Canada Seminar in Early Modern Philosophy](https://philevents.org/event/show/150217).
