@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I returned to Pittsburgh for the Fall semester. I will be giving some presentations these terms and working on my dissertation.
+I returned to Pittsburgh for the Fall semester. This term I will be giving some presentations and working on my dissertation.
