@@ -24,21 +24,19 @@ announcements:
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts
   limit: 3 # leave blank to include all the blog posts
 ---
 
 <!--
-Last updated: Jan 8, 2026 -->
+Last updated: Oct 7, 2026 -->
 
-I work in the history of philosophy, with an emphasis on the modern period, especially Immanuel Kant. My research focuses on moral philosophy and metaphysics, with particular attention to their intersection.
+I work in the history of philosophy, with an emphasis on the modern period, especially Immanuel Kant, Early Modern rationalism, and Late Scholasticism. My research concerns both practical and theoretical philosophy, with particular attention to the historical and systematic connections between these fields.
 
-I am currently starting a dissertation on Kant’s practical philosophy. The project examines the methodology of Kant’s moral philosophy and addresses the problems that arise in the application of moral principles to particular situations and actions. To do so, I draw not only on Kant’s moral writings but also on insights from his theoretical philosophy and the Critique of the Power of Judgment.
+My dissertation examines Kant’s conception of practical cognition and practical judgment. I am particularly interested in how moral cognition is possible, how moral principles are applied to particular actions, and how our capacity for moral judgment can be cultivated. Beyond my dissertation, I work on Kant’s moral and political philosophy, his reform of metaphysics, and the reception and criticism of his philosophy in German Idealism, especially in Hegel.
 
-My master’s thesis explored Kant’s novel conception of metaphysics in the 1770 Dissertatio. I am also interested in criticisms of Kant raised by his contemporaries and immediate successors, particularly Georg Wilhelm Friedrich Hegel. More recently, I have been working on Hegel’s Philosophy of Right, focusing on his critique of Kant and its methodological background.
-
-In addition, I work extensively on Francisco Suárez, whom I interpret as a pivotal figure between medieval and modern philosophy. My work on Suárez aims to clarify the scholastic background of early modern metaphysics, especially within the rationalist tradition.
-
-More broadly, I am interested in how modern philosophy reshaped central domains such as religion, politics, and history. I am always happy to discuss current events and their historical origins.
+My historical research focuses on the relationship between Late Scholasticism and Early Modern rationalism. I work extensively on Francisco Suárez, whom I regard as a pivotal figure between medieval and modern philosophy, and on the reception and transformation of Scholastic metaphysics in the rationalist tradition, particularly in Leibniz. More broadly, I am interested in how modern philosophy reshaped central domains such as religion, politics, and history.
 
 I hold a BA and an MA in philosophy from the Universidad de los Andes in Santiago, Chile.
+
+For more information about my current work, see my [Research Projects](/projects/).
