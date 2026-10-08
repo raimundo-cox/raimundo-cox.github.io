@@ -24,7 +24,7 @@ announcements:
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts
+  scrollable: true # adds a vertical scroll bar if there ar more than 3 new posts
   limit: 3 # leave blank to include all the blog posts
 ---
 
@@ -39,4 +39,4 @@ My historical research focuses on the relationship between Late Scholasticism an
 
 I hold a BA and an MA in philosophy from the Universidad de los Andes in Santiago, Chile.
 
-For more information about my current work, see my [Research Projects](/projects/).
+For more information about my current work, see my [Research](/projects/) page.
