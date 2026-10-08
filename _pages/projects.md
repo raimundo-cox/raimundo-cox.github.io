@@ -7,7 +7,26 @@ nav: true
 nav_order: 3
 ---
 
+<style>
+.research-area {
+  margin: 1.75rem 0;
+  padding: 1.5rem 1.75rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.75rem;
+  background-color: var(--global-card-bg-color);
+}
+.research-area h2 { margin-top: 0; }
+.research-area details { margin-top: 1rem; }
+.research-area summary { cursor: pointer; color: var(--global-theme-color); }
+.research-area details[open] summary { margin-bottom: 1rem; }
+@media (max-width: 576px) {
+  .research-area { padding: 1.15rem; }
+}
+</style>
+
 My primary area of research is the history of modern philosophy, with a special emphasis on Kant, his rationalist predecessors, and their Late Scholastic background. My work concerns both practical and theoretical philosophy.
+
+<div class="research-area" markdown="1">
 
 ## Dissertation: Kant on Practical Cognition and Practical Judgment
 
@@ -21,6 +40,10 @@ My dissertation examines Kant's conception of practical cognition and practical 
 I approach these questions by bringing Kant's moral writings into conversation with his theoretical philosophy and the *Critique of the Power of Judgment*. A central aim is to understand how Kant's account of judgment contributes to the practical application of moral principles without reducing moral judgment to the mechanical application of rules.
 
 </details>
+
+</div>
+
+<div class="research-area" markdown="1">
 
 ## Kant's Moral Philosophy and Its Reception
 
@@ -37,6 +60,10 @@ I also examine the reception and criticism of Kant's practical philosophy by his
 
 </details>
 
+</div>
+
+<div class="research-area" markdown="1">
+
 ## Kant's Political Philosophy
 
 I examine Kant's theory of right, particularly the relationship between natural right and contractualism.
@@ -49,6 +76,10 @@ My research in Kant's political philosophy concerns the foundations and justific
 This project considers the structure of Kant's theory of right, the grounds of legitimate political authority, and the distinctive kind of normativity involved in juridical relations. It also connects to my broader interest in the history of political concepts and the philosophical interpretation of political institutions.
 
 </details>
+
+</div>
+
+<div class="research-area" markdown="1">
 
 ## Kant's Reform of Metaphysics
 
@@ -65,6 +96,10 @@ A central question is how Kant transforms metaphysical method and determines the
 
 </details>
 
+</div>
+
+<div class="research-area" markdown="1">
+
 ## Medieval and Late Scholastic Philosophy
 
 I investigate Francisco Suárez's metaphysics and the systematic role of causality in his account of being.
@@ -80,6 +115,10 @@ My undergraduate thesis, *Ens sive causa: The Causal Understanding of Being in F
 
 </details>
 
+</div>
+
+<div class="research-area" markdown="1">
+
 ## Early Modern Rationalism
 
 I trace the reception and transformation of Scholastic metaphysics in Early Modern rationalism, particularly in Leibniz.
@@ -92,3 +131,5 @@ My research in Early Modern rationalism investigates how philosophical concepts 
 Leibniz is especially important to this project. I study the relationship between his metaphysical commitments and their Scholastic background, as well as the broader rationalist tradition against which Kant developed his own reform of metaphysics. These questions connect my historical work on Suárez to my research on Kant.
 
 </details>
+
+</div>
