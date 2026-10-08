@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Raimundo R. Cox # the website title (if blank, full name will be used instead)
-first_name: Raimundo
-middle_name: Rolando
-last_name: Cox
+title: "Raimundo R. Cox" # the website title (if blank, full name will be used instead)
+first_name: "Raimundo"
+middle_name: "Rolando"
+last_name: "Cox"
 contact_note: >
   If you'd like to get in touch, just shoot me an email.
 description: Personal website for Raimundo R. Cox, PhD student in Philosophy at the University of Pittsburgh (Pitt), studying Kant, Hegel, early modern philosophy, and German idealism.
