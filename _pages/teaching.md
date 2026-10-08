@@ -43,27 +43,27 @@ Recitations introducing central questions in ethics, epistemology, and metaphysi
 ### Instructor of Record
 
 **[Philosophical Anthropology I]({{ '/teaching/philosophical-anthropology-i/' | relative_url }})**  
-*Antropología Filosófica I*  
+_Antropología Filosófica I_  
 Semester 1, 2022 (1 section); Semester 1, 2023 (2 sections) · 3 sections total  
-Psychology Foundation Program (*Bachillerato de Psicología*) and undergraduate Psychology
+Psychology Foundation Program (_Bachillerato de Psicología_) and undergraduate Psychology
 
 **[Philosophical Anthropology II]({{ '/teaching/philosophical-anthropology-ii/' | relative_url }})**  
-*Antropología Filosófica II*  
+_Antropología Filosófica II_  
 Semester 2, 2022 · 1 section  
-Psychology Foundation Program (*Bachillerato de Psicología*)
+Psychology Foundation Program (_Bachillerato de Psicología_)
 
 **[Philosophical Anthropology]({{ '/teaching/philosophical-anthropology/' | relative_url }})**  
-*Antropología Filosófica*  
+_Antropología Filosófica_  
 Semester 2, 2022 (1 section); Semester 1, 2023 (1 section) · 2 sections total  
 Core curriculum, Engineering
 
 **[Philosophy of Science]({{ '/teaching/philosophy-of-science/' | relative_url }})**  
-*Filosofía de las Ciencias*  
+_Filosofía de las Ciencias_  
 Semester 1, 2022 (2 sections); Semester 1, 2023 (2 sections) · 4 sections total  
 Core curriculum, Engineering
 
 **[Medical Anthropology]({{ '/teaching/medical-anthropology/' | relative_url }})**  
-*Antropología Médica*  
+_Antropología Médica_  
 Semester 2, 2022 · 1 section  
 Core curriculum, Medicine
 
@@ -71,7 +71,7 @@ Core curriculum, Medicine
 
 Philosophical anthropology is a well-established area of philosophical teaching in Chile and other Latin American countries, where it frequently forms part of the general education curriculum across university disciplines. Broadly understood as the philosophical study of human nature and the human condition, it brings together questions from metaphysics, philosophy of mind, philosophy of action, and ethics. In the courses I taught at Universidad de los Andes, the emphasis was on the classical Aristotelian and Thomistic traditions, examining questions concerning life, human nature, embodiment, cognition, freedom, personhood, and the foundations of moral and social life.
 
-*Chilean academic calendar: Semester 1 begins in March; Semester 2 begins in late July.*
+_Chilean academic calendar: Semester 1 begins in March; Semester 2 begins in late July._
 
 </div>
 </div>
