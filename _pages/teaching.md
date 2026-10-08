@@ -22,7 +22,7 @@ Religion and morality, divine existence, free will, and faith in comparative phi
 
 **[Philosophical Anthropology I (*Antropología Filosófica I*)]({{ '/teaching/philosophical-anthropology-i/' | relative_url }})**  
 Semester 1, 2022 (1 section); Semester 1, 2023 (2 sections) · 3 sections total  
-Psychology Foundation Program (*Bachillerato de Psicología*) and undergraduate Psychology
+Psychlogy Foundation Program (*Bachillerato de Psicología**) and undergraduate Psychology
 
 **[Philosophical Anthropology II (*Antropología Filosófica II*)]({{ '/teaching/philosophical-anthropology-ii/' | relative_url }})**  
 Semester 2, 2022 · 1 section  
@@ -56,3 +56,18 @@ Recitations covering major figures and problems in early modern philosophy.
 
 **Introduction to Philosophical Problems** — University of Pittsburgh, Fall 2024  
 Recitations introducing central questions in ethics, epistemology, and metaphysics.
+
+## Secondary School Teaching
+
+**Philosophy Teacher**  
+Colegio Cordillera — Santiago, Chile  
+2021–2023 | Grades 10–12
+
+I taught year-long philosophy courses to secondary-school students, covering the history of philosophy (from antiquity to the modern period), political philosophy, and philosophy and film. My teaching focused on introducing students to major philosophical questions and traditions while developing their skills in critical thinking, philosophical discussion, and argumentative writing.
+
+Colegio Cordillera is a highly regarded Chilean secondary school with a longstanding record of strong performance on [national university entrance examinations](https://www.t13.cl/amp/noticia/nacional/ninguno-municipal-11-regiones-50-colegios-obtuvieron-mayores-puntajes-paes-6-1-2026).
+
+**Courses taught:**
+- History of Philosophy (Ancient to Modern)
+- Political Philosophy
+- Philosophy and Film
