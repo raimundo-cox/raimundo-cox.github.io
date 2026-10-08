@@ -39,6 +39,8 @@ My dissertation examines Kant's conception of practical cognition and practical 
 
 I approach these questions by bringing Kant's moral writings into conversation with his theoretical philosophy and the *Critique of the Power of Judgment*. A central aim is to understand how Kant's account of judgment contributes to the practical application of moral principles without reducing moral judgment to the mechanical application of rules.
 
+I am currently writing dissertation sections on Kant's distinction between theoretical and practical cognition, his doctrine of the object of practical reason, and his doctrine of the Typic of Pure Practical Reason. My dissertation research also addresses moral education, moral culture, and the cultivation of moral conscience.
+
 </details>
 
 </div>
@@ -56,7 +58,12 @@ My research on Kant's moral philosophy explores its systematic foundations and d
 
 I also examine the reception and criticism of Kant's practical philosophy by his successors, especially Hegel. My work on Hegel's *Philosophy of Right* focuses on his critique of Kant and the methodological assumptions that inform it.
 
-**Work in progress:** Papers on Kant's conception of happiness, practical philosophical method, and related questions in Kant's moral philosophy.
+**Papers and work in progress:**
+
+- **“Revisiting Kant's Paradox of Method in Context”** (Draft) — Reconstructs the methodological problem addressed by Kant's “paradox of method” and its significance for the structure of his practical philosophy.
+- **“Kantian Happiness as a Matter of Choice”** (Draft) — Examines and defends Kant's claim that there cannot be a duty to promote one's own happiness.
+- **Hegel's Criticism of Kant's Categorical Imperative** (In progress) — A paper examining Hegel's criticism of Kant's categorical imperative.
+- **Kant and Hegel on Moral Conscience** (In progress) — A paper comparing Kant's and Hegel's views of moral conscience.
 
 </details>
 
@@ -75,6 +82,10 @@ My research in Kant's political philosophy concerns the foundations and justific
 
 This project considers the structure of Kant's theory of right, the grounds of legitimate political authority, and the distinctive kind of normativity involved in juridical relations. It also connects to my broader interest in the history of political concepts and the philosophical interpretation of political institutions.
 
+**Papers and work in progress:**
+
+- **“Contractualism and Natural Right in Kant's Political Philosophy”** (Draft) — Examines the role of natural right in Kant's political philosophy and argues that it complements, rather than competes with, his contractualism.
+
 </details>
 
 </div>
@@ -92,7 +103,11 @@ My research seeks to understand Kant's philosophical project as a unified whole,
 
 A central question is how Kant transforms metaphysical method and determines the proper subject matter of a genuinely scientific metaphysics. My MA thesis developed this approach through a translation and commentary on Kant's *Inaugural Dissertation* (1770). The commentary, approximately fifty pages long, interprets the work through Kant's developing conception of metaphysical method and addresses shortcomings in earlier Spanish translations.
 
-**Work in progress:** Papers on Kant's definition of metaphysics and his commitment to analytic method; further revisions of my translation and commentary on the *Inaugural Dissertation*.
+**Papers and work in progress:**
+
+- **“Kant on Re-Defining Metaphysics”** (Draft) — Examines the methodological dimensions of Kant's critical philosophy and their consequences for his conception of metaphysics.
+- **“Kant on the Idea of Metaphysics”** (Draft) — Develops an interpretation of the conditions metaphysics must satisfy in order to constitute a science, situating Kant's project within the history of Early Modern ontology.
+- **Translation and Commentary on Kant's *Inaugural Dissertation*** (Book project) — I hope to publish a revised version of my translation and commentary as a book.
 
 </details>
 
@@ -111,7 +126,11 @@ Understanding early modern philosophy, including Kant, requires attention to the
 
 My undergraduate thesis, *Ens sive causa: The Causal Understanding of Being in Francisco Suárez's Disputationes Metaphysicae*, examined the relation between being and causality. I also work on Suárez's conception of metaphysics, the analogy of being between God and creatures, and arguments for God's existence.
 
-**Work in progress:** A full draft on Suárez's notion of being, studies of Suárez and Descartes, and English translations of *Disputationes Metaphysicae* XII and XXVII.
+**Papers and work in progress:**
+
+- **Paper on Suárez's Metaphysics** (Under review) — Title and description withheld while under review.
+- **“Suárez and the Unity of Causality”** (Draft) — Addresses the debate among interpreters of Suárez concerning the priority of efficient causation and the unity of his theory of causality.
+- **English Translations of Suárez's *Metaphysical Disputations* XII and XXVII** (In progress) — English translations of selected portions of Disputations XII and XXVII.
 
 </details>
 
@@ -129,6 +148,10 @@ I trace the reception and transformation of Scholastic metaphysics in Early Mode
 My research in Early Modern rationalism investigates how philosophical concepts inherited from medieval and Late Scholastic thought were transformed by thinkers such as Descartes, Leibniz, and Wolff. Rather than treating the rise of modern philosophy as a complete break with its predecessors, I am interested in both continuity and innovation in metaphysical method and subject matter.
 
 Leibniz is especially important to this project. I study the relationship between his metaphysical commitments and their Scholastic background, as well as the broader rationalist tradition against which Kant developed his own reform of metaphysics. These questions connect my historical work on Suárez to my research on Kant.
+
+**Papers and work in progress:**
+
+- **“From Complete Unity to Complete Concepts”** (Draft) — Traces the influence of Medieval debates about individuation on Leibniz's epistemology, with particular attention to his early nominalism.
 
 </details>
 
