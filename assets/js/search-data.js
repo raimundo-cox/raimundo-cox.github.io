@@ -72,22 +72,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-started-leading-a-reading-group-on-hegel-s-elements-of-the-philosophy-of-right-1821-for-undegraduate-students-here-at-pitt",
           title: 'I started leading a reading group on Hegel’s Elements of the Philosophy of...',
           description: "",
-          section: "News",},{id: "projects-kant-39-s-reform-of-metaphysics",
-          title: 'Kant&amp;#39;s Reform of Metaphysics',
-          description: "Kant&amp;#39;s philosophical project as a unified whole",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{id: "projects-late-scholasticism-amp-amp-early-modern-philosophy",
-          title: 'Late Scholasticism &amp;amp;amp; Early Modern Philosophy',
-          description: "The origins of modern philosophy",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
-            },},{id: "projects-kant-39-s-practical-metaphysics",
-          title: 'Kant&amp;#39;s Practical Metaphysics',
-          description: "Moral philosophy in Kant&#39;s system",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
-            },},{
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
