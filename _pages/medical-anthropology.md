@@ -6,7 +6,7 @@ description: Medical Anthropology course at Universidad de los Andes
 nav: false
 ---
 
-*Antropología Médica*
+_Antropología Médica_
 
 **Universidad de los Andes, Chile**  
 Semester 2, 2022 — 1 section  

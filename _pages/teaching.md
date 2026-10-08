@@ -22,11 +22,11 @@ Religion and morality, divine existence, free will, and faith in comparative phi
 
 **[Philosophical Anthropology I (*Antropología Filosófica I*)]({{ '/teaching/philosophical-anthropology-i/' | relative_url }})**  
 Semester 1, 2022 (1 section); Semester 1, 2023 (2 sections) · 3 sections total  
-Psychlogy Foundation Program (*Bachillerato de Psicología**) and undergraduate Psychology
+Psychlogy Foundation Program (\*Bachillerato de Psicología\*\*) and undergraduate Psychology
 
 **[Philosophical Anthropology II (*Antropología Filosófica II*)]({{ '/teaching/philosophical-anthropology-ii/' | relative_url }})**  
 Semester 2, 2022 · 1 section  
-Psychology Foundation Program (*Bachillerato de Psicología*)
+Psychology Foundation Program (_Bachillerato de Psicología_)
 
 **[Philosophical Anthropology (*Antropología Filosófica*)]({{ '/teaching/philosophical-anthropology/' | relative_url }})**  
 Semester 2, 2022 (1 section); Semester 1, 2023 (1 section) · 2 sections total  
@@ -44,7 +44,7 @@ Core curriculum, Medicine
 
 Philosophical anthropology is a well-established area of philosophical teaching in Chile and other Latin American countries, where it frequently forms part of the general education curriculum across university disciplines. Broadly understood as the philosophical study of human nature and the human condition, it brings together questions from metaphysics, philosophy of mind, philosophy of action, and ethics. In the courses I taught at Universidad de los Andes, the emphasis was on the classical Aristotelian and Thomistic traditions, examining questions concerning life, human nature, embodiment, cognition, freedom, personhood, and the foundations of moral and social life.
 
-*Chilean academic calendar: Semester 1 begins in March; Semester 2 begins in late July.*
+_Chilean academic calendar: Semester 1 begins in March; Semester 2 begins in late July._
 
 ## Teaching Assistant
 
@@ -68,6 +68,7 @@ I taught year-long philosophy courses to secondary-school students, covering the
 Colegio Cordillera is a highly regarded Chilean secondary school with a longstanding record of strong performance on [national university entrance examinations](https://www.t13.cl/amp/noticia/nacional/ninguno-municipal-11-regiones-50-colegios-obtuvieron-mayores-puntajes-paes-6-1-2026).
 
 **Courses taught:**
+
 - History of Philosophy (Ancient to Modern)
 - Political Philosophy
 - Philosophy and Film

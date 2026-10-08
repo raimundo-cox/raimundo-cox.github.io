@@ -6,7 +6,7 @@ description: Philosophy of Science course at Universidad de los Andes
 nav: false
 ---
 
-*Filosofía de las Ciencias*
+_Filosofía de las Ciencias_
 
 **Universidad de los Andes, Chile**  
 Semester 1, 2022 — 2 sections; Semester 1, 2023 — 2 sections  

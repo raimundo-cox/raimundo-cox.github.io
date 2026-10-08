@@ -6,7 +6,7 @@ description: Philosophical Anthropology course at Universidad de los Andes
 nav: false
 ---
 
-*Antropología Filosófica*
+_Antropología Filosófica_
 
 **Universidad de los Andes, Chile**  
 Semester 2, 2022 — 1 section; Semester 1, 2023 — 1 section  

@@ -37,7 +37,7 @@ My dissertation investigates moral cognition, practical judgment, and the cultiv
 
 My dissertation examines Kant's conception of practical cognition and practical judgment. I am interested in how moral cognition is possible, how moral principles can be applied to particular actions and circumstances, and how the capacity for moral judgment can be developed and cultivated. This requires investigating the methodology of Kant's practical philosophy and the relationship between universal moral principles and the judgments we make in concrete situations.
 
-I approach these questions by bringing Kant's moral writings into conversation with his theoretical philosophy and the *Critique of the Power of Judgment*. A central aim is to understand how Kant's account of judgment contributes to the practical application of moral principles without reducing moral judgment to the mechanical application of rules.
+I approach these questions by bringing Kant's moral writings into conversation with his theoretical philosophy and the _Critique of the Power of Judgment_. A central aim is to understand how Kant's account of judgment contributes to the practical application of moral principles without reducing moral judgment to the mechanical application of rules.
 
 I am currently writing dissertation sections on Kant's distinction between theoretical and practical cognition, his doctrine of the object of practical reason, and his doctrine of the Typic of Pure Practical Reason. My dissertation research also addresses moral education, moral culture, and the cultivation of moral conscience.
 
@@ -56,7 +56,7 @@ I study Kant's practical metaphysics, moral obligation, and the reception and cr
 
 My research on Kant's moral philosophy explores its systematic foundations and distinctive methodological commitments. I am particularly interested in Kant's conception of practical metaphysics, the possibility and limits of moral cognition, and the relationship between his ethics and broader philosophical system. Related work concerns moral conscience, happiness, and the role of religion and history in practical philosophy.
 
-I also examine the reception and criticism of Kant's practical philosophy by his successors, especially Hegel. My work on Hegel's *Philosophy of Right* focuses on his critique of Kant and the methodological assumptions that inform it.
+I also examine the reception and criticism of Kant's practical philosophy by his successors, especially Hegel. My work on Hegel's _Philosophy of Right_ focuses on his critique of Kant and the methodological assumptions that inform it.
 
 **Papers and work in progress:**
 
@@ -101,13 +101,13 @@ I interpret Kant's critical philosophy as a constructive reform of traditional m
 
 My research seeks to understand Kant's philosophical project as a unified whole, guided by his ambition to reform rather than destroy metaphysics. Departing from interpretations that present Kant as simply hostile to metaphysics, I emphasize his constructive aim: preserving its essential insights while establishing a secure foundation for its claims.
 
-A central question is how Kant transforms metaphysical method and determines the proper subject matter of a genuinely scientific metaphysics. My MA thesis developed this approach through a translation and commentary on Kant's *Inaugural Dissertation* (1770). The commentary, approximately fifty pages long, interprets the work through Kant's developing conception of metaphysical method and addresses shortcomings in earlier Spanish translations.
+A central question is how Kant transforms metaphysical method and determines the proper subject matter of a genuinely scientific metaphysics. My MA thesis developed this approach through a translation and commentary on Kant's _Inaugural Dissertation_ (1770). The commentary, approximately fifty pages long, interprets the work through Kant's developing conception of metaphysical method and addresses shortcomings in earlier Spanish translations.
 
 **Papers and work in progress:**
 
 - **“Kant on Re-Defining Metaphysics”** (Draft) — Examines the methodological dimensions of Kant's critical philosophy and their consequences for his conception of metaphysics.
 - **“Kant on the Idea of Metaphysics”** (Draft) — Develops an interpretation of the conditions metaphysics must satisfy in order to constitute a science, situating Kant's project within the history of Early Modern ontology.
-- **Translation and Commentary on Kant's *Inaugural Dissertation*** (Book project) — I hope to publish a revised version of my translation and commentary as a book.
+- **Translation and Commentary on Kant's _Inaugural Dissertation_** (Book project) — I hope to publish a revised version of my translation and commentary as a book.
 
 </details>
 
@@ -122,15 +122,15 @@ I investigate Francisco Suárez's metaphysics and the systematic role of causali
 <details markdown="1">
 <summary>See more</summary>
 
-Understanding early modern philosophy, including Kant, requires attention to the Late Scholastic context from which it emerged. Many concepts and doctrines of modern metaphysics have medieval and Scholastic origins. My research focuses on Francisco Suárez, whose *Disputationes Metaphysicae* became an influential reference point for seventeenth-century European philosophy.
+Understanding early modern philosophy, including Kant, requires attention to the Late Scholastic context from which it emerged. Many concepts and doctrines of modern metaphysics have medieval and Scholastic origins. My research focuses on Francisco Suárez, whose _Disputationes Metaphysicae_ became an influential reference point for seventeenth-century European philosophy.
 
-My undergraduate thesis, *Ens sive causa: The Causal Understanding of Being in Francisco Suárez's Disputationes Metaphysicae*, examined the relation between being and causality. I also work on Suárez's conception of metaphysics, the analogy of being between God and creatures, and arguments for God's existence.
+My undergraduate thesis, _Ens sive causa: The Causal Understanding of Being in Francisco Suárez's Disputationes Metaphysicae_, examined the relation between being and causality. I also work on Suárez's conception of metaphysics, the analogy of being between God and creatures, and arguments for God's existence.
 
 **Papers and work in progress:**
 
 - **Paper on Suárez's Metaphysics** (Under review) — Title and description withheld while under review.
 - **“Suárez and the Unity of Causality”** (Draft) — Addresses the debate among interpreters of Suárez concerning the priority of efficient causation and the unity of his theory of causality.
-- **English Translations of Suárez's *Metaphysical Disputations* XII and XXVII** (In progress) — English translations of selected portions of Disputations XII and XXVII.
+- **English Translations of Suárez's _Metaphysical Disputations_ XII and XXVII** (In progress) — English translations of selected portions of Disputations XII and XXVII.
 
 </details>
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started leading a reading group on Hegel's *Elements of the Philosophy of Right* (1821) for undegraduate students here at Pitt.
+I started leading a reading group on Hegel's _Elements of the Philosophy of Right_ (1821) for undegraduate students here at Pitt.
