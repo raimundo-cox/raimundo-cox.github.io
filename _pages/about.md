@@ -15,7 +15,7 @@ profile:
     <p>Pittsburgh, PA 15260</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
