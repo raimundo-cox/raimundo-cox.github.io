@@ -15,7 +15,7 @@ nav_order: 3
   border-radius: 0.75rem;
   background-color: var(--global-card-bg-color);
 }
-.research-area h2 { margin-top: 0; }
+.research-area h2 { margin-top: 0; font-size: 1.25rem; font-weight: 700;  line-height: 1.35;}
 .research-area details { margin-top: 1rem; }
 .research-area summary { cursor: pointer; color: var(--global-theme-color); }
 .research-area details[open] summary { margin-bottom: 1rem; }
