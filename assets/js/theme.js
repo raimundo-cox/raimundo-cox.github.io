@@ -2,14 +2,20 @@
 
 // Toggle through light, dark, and system theme settings.
 let toggleThemeSetting = () => {
-  let themeSetting = determineThemeSetting();
-  if (themeSetting == "system") {
+  let currentTheme = document.documentElement.getAttribute("data-theme");
+  if (currentTheme === "dark") {
     setThemeSetting("light");
-  } else if (themeSetting == "light") {
-    setThemeSetting("dark");
   } else {
-    setThemeSetting("system");
+    setThemeSetting("dark");
   }
+  // let themeSetting = determineThemeSetting();
+  // if (themeSetting == "system") {
+  //   setThemeSetting("light");
+  // } else if (themeSetting == "light") {
+  //   setThemeSetting("dark");
+  // } else {
+  //   setThemeSetting("system");
+  // }
 };
 
 // Change the theme setting and apply the theme.
