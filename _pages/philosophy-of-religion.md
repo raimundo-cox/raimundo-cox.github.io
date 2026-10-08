@@ -6,10 +6,8 @@ description: PHIL 0470, Spring 2026, University of Pittsburgh
 nav: false
 ---
 
-**PHIL 0470 · Spring 2026**  
-University of Pittsburgh
-
-## Course Description
+**University of Pittsburgh**  
+PHIL 0470 · Spring 2026
 
 Religion shapes human experience in profound ways, influencing our social, political, and moral lives—whether we're believers or not. This course explores fundamental questions in philosophy of religion, focusing primarily on the complex relationship between religion and morality, alongside key issues like free will, the nature of faith, and God's existence. We'll think through these issues systematically, drawing mainly from the Christian tradition while addressing questions that transcend any single tradition.
 
