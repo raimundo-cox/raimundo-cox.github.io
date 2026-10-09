@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-the-bookshelf",
+          title: "The Bookshelf",
+          description: "Books, ideas, and reading recommendations.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/bookshelf/";
+          },
         },{id: "nav-curriculum-vitae",
           title: "Curriculum Vitae",
           description: "For a PDF version, click the &quot;PDF&quot; button to the right. However, the web version will be the most up to date.",
