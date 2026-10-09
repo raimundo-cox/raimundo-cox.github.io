@@ -4,7 +4,7 @@ title: The Bookshelf
 description: Books, ideas, and reading recommendations.
 permalink: /bookshelf/
 nav: true
-nav_order: 4
+nav_order: 7
 ---
 
 Welcome to The Bookshelf, my informal publication about books and reading. I write about philosophy, history, literature, and other subjects in the humanities, sharing book recommendations, reviews, reading lists, and occasional reflections on what I am reading.
