@@ -14,14 +14,14 @@ My teaching experience spans philosophy of religion, philosophy of science, and 
 
 <h3 style="font-size: 1.2rem; font-weight: 500;">University of Pittsburgh</h3>
 
-### Instructor of Record
+<h4 style="font-size: 1.1rem; font-weight: 500;">Instructor of Record</h4>
 
 [Philosophy of Religion (PHIL 0470)]({{ '/teaching/philosophy-of-religion/' | relative_url }})  
 Spring 2026 · 1 section
 
 Religion and morality, divine existence, free will, and faith in comparative philosophical perspective.
 
-### Teaching Assistant
+<h4 style="font-size: 1.1rem; font-weight: 500;">Teaching Assistant</h4>
 
 History of Ancient Philosophy — Fall 2025  
 Writing-intensive recitations focused on philosophical argumentation, student writing, and peer review.
@@ -40,7 +40,7 @@ Recitations introducing central questions in ethics, epistemology, and metaphysi
 
 <h3 style="font-size: 1.2rem; font-weight: 500;">Universidad de los Andes, Chile</h3>
 
-### Instructor of Record
+<h4 style="font-size: 1.1rem; font-weight: 500;">Instructor of Record</h4>
 
 [Philosophical Anthropology I]({{ '/teaching/philosophical-anthropology-i/' | relative_url }})  
 _Antropología Filosófica I_  
@@ -67,7 +67,7 @@ _Antropología Médica_
 Semester 2, 2022 · 1 section  
 Core curriculum, Medicine
 
-### A note on Philosophical Anthropology
+<h4 style="font-size: 1.1rem; font-weight: 500;">A note on Philosophical Anthropology</h4>
 
 Philosophical anthropology is a well-established area of philosophical teaching in Chile and other Latin American countries, where it frequently forms part of the general education curriculum across university disciplines. Broadly understood as the philosophical study of human nature and the human condition, it brings together questions from metaphysics, philosophy of mind, philosophy of action, and ethics. In the courses I taught at Universidad de los Andes, the emphasis was on the classical Aristotelian and Thomistic traditions, examining questions concerning life, human nature, embodiment, cognition, freedom, personhood, and the foundations of moral and social life.
 
