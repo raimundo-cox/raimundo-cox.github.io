@@ -12,24 +12,24 @@ My teaching experience spans philosophy of religion, philosophy of science, and 
 <div class="card mb-4" markdown="1">
 <div class="card-body" markdown="1">
 
-## University of Pittsburgh
+<h3 style="font-size: 1.2rem; font-weight: 500;">University of Pittsburgh</h3>
 
 ### Instructor of Record
 
-**[Philosophy of Religion (PHIL 0470)]({{ '/teaching/philosophy-of-religion/' | relative_url }})**  
+[Philosophy of Religion (PHIL 0470)]({{ '/teaching/philosophy-of-religion/' | relative_url }})  
 Spring 2026 · 1 section
 
 Religion and morality, divine existence, free will, and faith in comparative philosophical perspective.
 
 ### Teaching Assistant
 
-**History of Ancient Philosophy** — Fall 2025  
+History of Ancient Philosophy — Fall 2025  
 Writing-intensive recitations focused on philosophical argumentation, student writing, and peer review.
 
-**History of Modern Philosophy** — Spring 2025  
+History of Modern Philosophy — Spring 2025  
 Recitations covering major figures and problems in early modern philosophy.
 
-**Introduction to Philosophical Problems** — Fall 2024  
+Introduction to Philosophical Problems — Fall 2024  
 Recitations introducing central questions in ethics, epistemology, and metaphysics.
 
 </div>
@@ -38,31 +38,31 @@ Recitations introducing central questions in ethics, epistemology, and metaphysi
 <div class="card mb-4" markdown="1">
 <div class="card-body" markdown="1">
 
-## Universidad de los Andes, Chile
+<h3 style="font-size: 1.2rem; font-weight: 500;">Universidad de los Andes, Chile</h3>
 
 ### Instructor of Record
 
-**[Philosophical Anthropology I]({{ '/teaching/philosophical-anthropology-i/' | relative_url }})**  
+[Philosophical Anthropology I]({{ '/teaching/philosophical-anthropology-i/' | relative_url }})  
 _Antropología Filosófica I_  
 Semester 1, 2022 (1 section); Semester 1, 2023 (2 sections) · 3 sections total  
 Psychology Foundation Program (_Bachillerato de Psicología_) and undergraduate Psychology
 
-**[Philosophical Anthropology II]({{ '/teaching/philosophical-anthropology-ii/' | relative_url }})**  
+[Philosophical Anthropology II]({{ '/teaching/philosophical-anthropology-ii/' | relative_url }})  
 _Antropología Filosófica II_  
 Semester 2, 2022 · 1 section  
 Psychology Foundation Program (_Bachillerato de Psicología_)
 
-**[Philosophical Anthropology]({{ '/teaching/philosophical-anthropology/' | relative_url }})**  
+[Philosophical Anthropology]({{ '/teaching/philosophical-anthropology/' | relative_url }})  
 _Antropología Filosófica_  
 Semester 2, 2022 (1 section); Semester 1, 2023 (1 section) · 2 sections total  
 Core curriculum, Engineering
 
-**[Philosophy of Science]({{ '/teaching/philosophy-of-science/' | relative_url }})**  
+[Philosophy of Science]({{ '/teaching/philosophy-of-science/' | relative_url }})  
 _Filosofía de las Ciencias_  
 Semester 1, 2022 (2 sections); Semester 1, 2023 (2 sections) · 4 sections total  
 Core curriculum, Engineering
 
-**[Medical Anthropology]({{ '/teaching/medical-anthropology/' | relative_url }})**  
+[Medical Anthropology]({{ '/teaching/medical-anthropology/' | relative_url }})  
 _Antropología Médica_  
 Semester 2, 2022 · 1 section  
 Core curriculum, Medicine
@@ -79,7 +79,7 @@ _Chilean academic calendar: Semester 1 begins in March; Semester 2 begins in lat
 <div class="card mb-4" markdown="1">
 <div class="card-body" markdown="1">
 
-## Colegio Cordillera
+<h3 style="font-size: 1.2rem; font-weight: 500;">Colegio Cordillera</h3>
 
 **Philosophy Teacher**  
 Santiago, Chile  
