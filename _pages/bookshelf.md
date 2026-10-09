@@ -26,22 +26,6 @@ Receive new book recommendations, reviews, and reading lists directly in your in
 
 ## Latest from The Bookshelf
 
-{% assign bookshelf_posts = site.posts | where: "external_source", "The Bookshelf" | sort: "date" | reverse %}
-
-{% if bookshelf_posts.size > 0 %}
-{% for post in bookshelf_posts limit: 5 %}
-
-### [{{ post.title }}]({{ post.redirect }})
-
-{{ post.date | date: "%B %-d, %Y" }}
-
-{% if post.description %}
-{{ post.description | strip_html | strip_newlines | truncatewords: 40 }}
-{% endif %}
-
-{% endfor %}
-{% else %}
-No articles have been published yet. Please check back soon.
-{% endif %}
+{% include substack_feed.html %}
 
 [View all articles on Substack](https://raimundocox.substack.com/)
