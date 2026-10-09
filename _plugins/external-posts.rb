@@ -25,8 +25,9 @@ module ExternalPosts
     def fetch_from_rss(site, src)
       url = src['rss_url']
       response = HTTParty.get(url, timeout: 20, headers: {
-        'User-Agent' => 'Mozilla/5.0 (compatible; Jekyll RSS importer)',
-        'Accept' => 'application/rss+xml, application/atom+xml, application/xml, text/xml'
+        'User-Agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+        'Accept' => 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*',
+        'Accept-Language' => 'en-US,en;q=0.9'
       })
 
       unless response.success?
