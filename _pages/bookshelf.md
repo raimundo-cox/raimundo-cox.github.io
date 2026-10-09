@@ -1,0 +1,46 @@
+---
+layout: page
+title: The Bookshelf
+description: Books, ideas, and reading recommendations.
+permalink: /bookshelf/
+nav: true
+nav_order: 4
+---
+
+Welcome to The Bookshelf, my informal publication about books and reading. I write about philosophy, history, literature, and other subjects in the humanities, sharing book recommendations, reviews, reading lists, and occasional reflections on what I am reading.
+
+## Subscribe to The Bookshelf
+
+Receive new book recommendations, reviews, and reading lists directly in your inbox.
+
+<iframe
+  src="https://raimundocox.substack.com/embed"
+  title="Subscribe to The Bookshelf"
+  width="100%"
+  height="320"
+  style="border: 0; max-width: 100%;"
+  loading="lazy"
+></iframe>
+
+[Subscribe directly on Substack](https://raimundocox.substack.com/subscribe)
+
+## Latest from The Bookshelf
+
+{% assign bookshelf_posts = site.posts | where: "external_source", "The Bookshelf" | sort: "date" | reverse %}
+
+{% if bookshelf_posts.size > 0 %}
+  {% for post in bookshelf_posts limit: 5 %}
+### [{{ post.title }}]({{ post.redirect }})
+
+{{ post.date | date: "%B %-d, %Y" }}
+
+{% if post.description %}
+{{ post.description | strip_html | strip_newlines | truncatewords: 40 }}
+{% endif %}
+
+  {% endfor %}
+{% else %}
+No articles have been published yet. Please check back soon.
+{% endif %}
+
+[View all articles on Substack](https://raimundocox.substack.com/)
