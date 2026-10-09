@@ -23,10 +23,32 @@ module ExternalPosts
     end
 
     def fetch_from_rss(site, src)
-      xml = HTTParty.get(src['rss_url']).body
-      return if xml.nil?
+      url = src['rss_url']
+      response = HTTParty.get(url, timeout: 20, headers: {
+        'User-Agent' => 'Mozilla/5.0 (compatible; Jekyll RSS importer)',
+        'Accept' => 'application/rss+xml, application/atom+xml, application/xml, text/xml'
+      })
+
+      unless response.success?
+        Jekyll.logger.warn 'External posts:', "#{src['name']} returned HTTP #{response.code}; skipping feed."
+        return
+      end
+
+      xml = response.body
+      if xml.nil? || xml.strip.empty?
+        Jekyll.logger.warn 'External posts:', "#{src['name']} returned an empty feed; skipping."
+        return
+      end
+
       feed = Feedjira.parse(xml)
+      if feed.nil? || !feed.respond_to?(:entries)
+        Jekyll.logger.warn 'External posts:', "#{src['name']} returned unrecognized RSS/XML; skipping."
+        return
+      end
+
       process_entries(site, src, feed.entries)
+    rescue StandardError => e
+      Jekyll.logger.warn 'External posts:', "#{src['name']} feed import failed (#{e.class}: #{e.message}); skipping."
     end
 
     def process_entries(site, src, entries)
@@ -54,7 +76,8 @@ module ExternalPosts
 
       path = site.in_source_dir("_posts/#{slug}.md")
       doc = Jekyll::Document.new(
-        path, { :site => site, :collection => site.collections['posts'] }
+        path, {
+ :site => site, :collection => site.collections['posts' }
       )
       doc.data['external_source'] = source_name
       doc.data['title'] = content[:title]
