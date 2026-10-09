@@ -29,7 +29,8 @@ Receive new book recommendations, reviews, and reading lists directly in your in
 {% assign bookshelf_posts = site.posts | where: "external_source", "The Bookshelf" | sort: "date" | reverse %}
 
 {% if bookshelf_posts.size > 0 %}
-  {% for post in bookshelf_posts limit: 5 %}
+{% for post in bookshelf_posts limit: 5 %}
+
 ### [{{ post.title }}]({{ post.redirect }})
 
 {{ post.date | date: "%B %-d, %Y" }}
@@ -38,7 +39,7 @@ Receive new book recommendations, reviews, and reading lists directly in your in
 {{ post.description | strip_html | strip_newlines | truncatewords: 40 }}
 {% endif %}
 
-  {% endfor %}
+{% endfor %}
 {% else %}
 No articles have been published yet. Please check back soon.
 {% endif %}
