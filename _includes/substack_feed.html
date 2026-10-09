@@ -1,0 +1,82 @@
+<div id="bookshelf-feed" aria-live="polite">
+  <p id="bookshelf-feed-status" class="text-muted">Loading recent articles…</p>
+  <div id="bookshelf-feed-list"></div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", async () => {
+    const status = document.getElementById("bookshelf-feed-status");
+    const list = document.getElementById("bookshelf-feed-list");
+    const feed = "https://raimundocox.substack.com/feed";
+    const api = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feed)}`;
+
+    try {
+      const response = await fetch(api);
+      if (!response.ok) throw new Error(`RSS service returned HTTP ${response.status}`);
+      const data = await response.json();
+      if (data.status !== "ok" || !Array.isArray(data.items)) {
+        throw new Error("RSS service returned an invalid feed");
+      }
+
+      const posts = data.items
+        .filter((post) => {
+          try {
+            return new URL(post.link).hostname === "raimundocox.substack.com";
+          } catch {
+            return false;
+          }
+        })
+        .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
+        .slice(0, 5);
+
+      if (posts.length === 0) {
+        status.textContent = "No articles are available yet. Please check Substack for the latest updates.";
+        return;
+      }
+
+      const fragment = document.createDocumentFragment();
+      posts.forEach((post) => {
+        const article = document.createElement("article");
+        article.className = "mb-4";
+
+        const heading = document.createElement("h3");
+        const link = document.createElement("a");
+        link.href = post.link;
+        link.textContent = post.title || "Read on Substack";
+        heading.appendChild(link);
+        article.appendChild(heading);
+
+        const date = new Date(post.pubDate);
+        if (!Number.isNaN(date.getTime())) {
+          const meta = document.createElement("p");
+          meta.className = "text-muted small mb-2";
+          meta.textContent = date.toLocaleDateString("en-US", {
+            year: "numeric",
+            month: "long",
+            day: "numeric",
+          });
+          article.appendChild(meta);
+        }
+
+        if (post.description) {
+          const plainText = new DOMParser()
+            .parseFromString(post.description, "text/html")
+            .body.textContent.replace(/\s+/g, " ").trim();
+          if (plainText) {
+            const description = document.createElement("p");
+            description.textContent =
+              plainText.length > 240 ? `${plainText.slice(0, 237).trimEnd()}…` : plainText;
+            article.appendChild(description);
+          }
+        }
+        fragment.appendChild(article);
+      });
+
+      list.appendChild(fragment);
+      status.remove();
+    } catch (error) {
+      console.warn("Unable to load The Bookshelf feed:", error);
+      status.textContent = "Recent articles are temporarily unavailable. Please view them on Substack.";
+    }
+  });
+</script>
